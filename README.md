@@ -1,2 +1,0 @@
-# counterTutorialApp
-Created with CodeSandbox
